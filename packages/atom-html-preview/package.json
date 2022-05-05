@@ -1,0 +1,60 @@
+{
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".coffee": [
+        "lib/atom-html-preview-view.coffee",
+        "lib/atom-html-preview.coffee"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    }
+  },
+  "_from": "https://www.atom.io/api/packages/atom-html-preview/versions/0.2.7/tarball",
+  "_id": "atom-html-preview@0.2.7",
+  "_inBundle": false,
+  "_integrity": "sha512-pZB0cP55suScUf+LguaQ2lcMA/1KjvKff5QBOl32goTswDSxv9H4qGnWssJxO62EI553wm/lufYMbVNAciz2ag==",
+  "_location": "/atom-html-preview",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-html-preview/versions/0.2.7/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-html-preview/versions/0.2.7/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-html-preview/versions/0.2.7/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-html-preview/versions/0.2.7/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atom-html-preview/versions/0.2.7/tarball",
+  "_shasum": "d5d77ff9242cece98c8c461786adb934e392b10a",
+  "_spec": "https://www.atom.io/api/packages/atom-html-preview/versions/0.2.7/tarball",
+  "_where": "/tmp/apm-install-dir-202245-5443-v5bnhj.m7odq",
+  "activationHooks": [
+    "language-html:grammar-used"
+  ],
+  "bugs": {
+    "url": "https://github.com/harmsk/atom-html-preview/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "atom-space-pen-views": "^2.2.0"
+  },
+  "deprecated": false,
+  "description": "A live preview tool for Atom Editor.",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/harmsk/atom-html-preview",
+  "license": "MIT",
+  "main": "./lib/atom-html-preview",
+  "name": "atom-html-preview",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harmsk/atom-html-preview.git"
+  },
+  "version": "0.2.7"
+}
